@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joao.mende\\Documents\\SistemaSessoes\\SistemaSessoes.csproj": {}
+    "C:\\Users\\joao.mende\\Documents\\ControleAcesso\\SistemaSessoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joao.mende\\Documents\\SistemaSessoes\\SistemaSessoes.csproj": {
+    "C:\\Users\\joao.mende\\Documents\\ControleAcesso\\SistemaSessoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joao.mende\\Documents\\SistemaSessoes\\SistemaSessoes.csproj",
+        "projectUniqueName": "C:\\Users\\joao.mende\\Documents\\ControleAcesso\\SistemaSessoes.csproj",
         "projectName": "SistemaSessoes",
-        "projectPath": "C:\\Users\\joao.mende\\Documents\\SistemaSessoes\\SistemaSessoes.csproj",
+        "projectPath": "C:\\Users\\joao.mende\\Documents\\ControleAcesso\\SistemaSessoes.csproj",
         "packagesPath": "C:\\Users\\joao.mende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joao.mende\\Documents\\SistemaSessoes\\obj\\",
+        "outputPath": "C:\\Users\\joao.mende\\Documents\\ControleAcesso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

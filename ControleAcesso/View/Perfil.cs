@@ -17,6 +17,10 @@ namespace View
             try
             {
                 Model.Perfil perfil = Controller.Perfil.CadastrarPerfil(idUsuario, tipo);
+                
+                if (Controller.Perfil.BuscarPerfilPorUsuario(idUsuario) != null) {
+                    throw new Exception("Usuário já possui perfil");
+                }
                 Console.WriteLine("Perfil criado com sucesso");
                 Console.WriteLine(perfil);
                 Console.WriteLine("Continuar...");

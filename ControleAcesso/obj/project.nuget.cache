@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCUYikxAsKtWOH6tbp0qSwFocZjNfx/Jj0NOHMafEhjJopA3MYOYHwac4J0CCZwoyTgaHbn1wRjI95MKRFph1g==",
+  "dgSpecHash": "4N3m26Sb6Jl9sxTDhNoFGbIGW4qScJ22Uz0ccEnAvU+4IEANQ4axd2JJrJvyfx9YUqFdFqh5xsteQdKZLFYtbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joao.mende\\Documents\\SistemaSessoes\\SistemaSessoes.csproj",
+  "projectFilePath": "C:\\Users\\joao.mende\\Documents\\ControleAcesso\\SistemaSessoes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joao.mende\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\joao.mende\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",

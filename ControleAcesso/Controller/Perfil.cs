@@ -32,6 +32,15 @@ namespace Controller
             return Model.Perfil.ListarPerfis();
         }
 
+
+        public static Model.Perfil BuscarPerfilPorUsuario(string idUsuario)
+        {
+            int idUserP = int.Parse(idUsuario);
+            Model.Usuario usuario = Model.Usuario.BuscarUsuario(idUserP);
+
+            return Model.Perfil.BuscarPerfilPorUsuario(usuario.Id);
+        }
+
         
         
     }
